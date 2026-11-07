@@ -1,7 +1,7 @@
 
 # 🎮 Project Overview
 
-## Project Title: `depression.`
+## Project Title: `RosG`
 - **Genre**: Psychological Horror
 - **Estimated Release Date**: Closed
 
