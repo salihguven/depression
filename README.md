@@ -3,7 +3,7 @@
 
 ## Project Title: `depression.`
 - **Genre**: Psychological Horror
-- **Estimated Release Date**: Late 2026
+- **Estimated Release Date**: Closed
 
 ---
 
