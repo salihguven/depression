@@ -9,16 +9,7 @@
 
 ## 👥 Team Structure
 
-- **Project Director**: `nullecholife`
-- **Project Manager**: `leoxw_1`
-
-### Current Developer Count:
-- **Testers**: 3  
-- **Builders**: 2  
-- **Scripters**: 2  
-- **VFX, Animation & Lighting**: 1
-
----
+- **Project Director**: `True Kinetic Studios'
 
 # 🖼️ Visual References
 
@@ -35,7 +26,3 @@
 
 
 ---
-
-JOIN TRUE KINETIC STUDIOS TODAY
-
-![Apply] (https://forms.gle/M3YYZtoHtuJ8dHsx6)
